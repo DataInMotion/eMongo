@@ -6,8 +6,8 @@ Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: EclipseLabs
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ActivationPolicy: lazy
-Import-Package: com.mongodb;version="2.11.1.RELEASE",
- org.bson;version="2.11.1.RELEASE",
+Import-Package: com.mongodb,
+ org.bson,
  org.eclipselabs.emongo,
  org.osgi.framework;version="1.7.0",
  org.osgi.service.log;version="1.3.0",
